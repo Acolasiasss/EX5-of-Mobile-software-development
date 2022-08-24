@@ -2,9 +2,9 @@
 
 
 
-<center>姓名：张丁月  学号：20020007099</center>
+<center></center>
 
-| 姓名和学号？         | 张丁月，20020007099                  |
+| 姓名和学号？         |                 |
 | -------------------- | -------------------------------- |
 | 本实验属于哪门课程？ | 中国海洋大学22夏《移动软件开发》 |
 | 实验名称？           | 实验5：第一个安卓应用          |
@@ -34,7 +34,7 @@
  • 列表组5：“小程序”单行列表项。
 如图：
 
-![图片1.png](../_resources/图片1.png)
+![图片1](https://user-images.githubusercontent.com/111416724/186304688-79eba56b-faec-414d-8f48-e00961bcfda9.png)
 
 首先设计一个外部总垂直布局,包含所有的列表组
 写五个LinearLayout来构建这五个列表组
@@ -53,7 +53,7 @@
     android:layout_height="match_parent">
 ```
 
-![2.png](../_resources/2.png)
+![2](https://user-images.githubusercontent.com/111416724/186304715-5e8a4533-382e-439d-b393-97c0210debba.png)
 
 2）然后构建第一个列表组，设置宽高，设置背景色，设置垂直方向
 ```
@@ -98,18 +98,17 @@
             android:layout_height="wrap_content"/>
 ```
 
-![3.png](../_resources/3.png)
+![3](https://user-images.githubusercontent.com/111416724/186304747-0ecdb6e4-1975-4462-89da-8a07af0b6870.png)
 
 6）重复以上步骤添加新的列表组，如遇中间间隔，则添加一个与背景色相同但是高略小的列表组
 
-![4.png](../_resources/4.png)
+![4](https://user-images.githubusercontent.com/111416724/186304757-0d429ef7-2466-4639-8ddd-d8f5069d5deb.png)
 
 ## 三、程序运行结果
 
 列出程序的最终运行结果及截图。
 
-![5.jpg](../_resources/5.jpg)
-
+![5](https://user-images.githubusercontent.com/111416724/186304774-6cfac39a-277e-49de-a7cc-853a0e795992.jpg)
 
 ## 四、问题总结与体会
 
